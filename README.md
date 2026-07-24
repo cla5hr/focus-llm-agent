@@ -1,4 +1,4 @@
-# CFD Case Copilot
+# FOCUS– FOam Copilot for User-driven Simulation
 
 **Turn a plain-English description of a flow problem into a validated, runnable
 [OpenFOAM](https://www.openfoam.com/) case — meshed, quality-checked, solved, and
